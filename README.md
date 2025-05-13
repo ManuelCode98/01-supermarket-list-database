@@ -1,6 +1,10 @@
 # Pasos para restaurar la base de datos
 
-### Nota 
+### Nota
+Configura los archivos en este orden    
+**server, database, client**
+
+**Estas en database** 
 
     Estar en la ruta de esta carpeta que se llama database
 
