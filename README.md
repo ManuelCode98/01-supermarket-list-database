@@ -14,9 +14,9 @@ Configura los archivos en este orden
 
 3. Ejecuta el comando
 
-    **docker compose up -d**
+    *docker compose up -d*
 
 4. Restaurar base de datos desde archivo sql
 
-```cat backup.sql | docker exec -i CONTENEDOR-DE-DOCKER -U USUARIO -d NOMBRE-DE-LA-BASE-DE-DATOS```
+    *cat backup.sql | docker exec -i CONTENEDOR-DE-DOCKER -U USUARIO -d NOMBRE-DE-LA-BASE-DE-DATOS*
 
